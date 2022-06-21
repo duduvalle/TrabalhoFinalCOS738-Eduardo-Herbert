@@ -1,0 +1,10 @@
+2022-06-20 21:58:47,871 Geração da lista invertida de palavras das diretrizes dos grupos de cursos
+2022-06-20 21:59:23,639 Fim da geração da lista invertida
+2022-06-20 21:59:23,639 Executou o procedimento anterior em: 35.768393 segundos
+2022-06-20 21:59:23,639 Leu 68 grupos de cursos
+2022-06-20 21:59:23,639 Criação da matriz dos vetores tf-idf das palavras contidas nas descrições dos grupos de cursos
+2022-06-20 21:59:24,244 Fim da geração da matriz dos vetores tf-idf
+2022-06-20 21:59:24,496 Executou o procedimento anterior em: 0.605381 segundos
+2022-06-20 21:59:24,496 Compara os vetores tf-idf das diretrizes dos grupos de cursos com as descrições das ocupações
+2022-06-20 21:59:33,534 Fim da comparação
+2022-06-20 21:59:33,534 Executou o procedimento anterior em: 9.037843 segundos
